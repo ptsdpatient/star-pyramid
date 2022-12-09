@@ -1,7 +1,7 @@
-for i in range(0,13):
+for i in range(0,12):
     for j in range(0,13):
-        if(j<5):
-            print(" *", end="")
+        if(j<6):
+            print(" * ", end="")
         else: 
-            print(" ",end="")
+            print(" + ",end="")
     print("")
