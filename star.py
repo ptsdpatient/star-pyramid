@@ -1,7 +1,7 @@
-k=5
-for i in range(0,12):
-    for j in range(0,13):
-        if(j<6 and k==j):
+k=7
+for i in range(0,14):
+    for j in range(0,16):
+        if(j<7 and k==j):
             print(" * ", end="")
         else: 
             print(" _ ",end="")
