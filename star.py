@@ -4,5 +4,7 @@ for i in range(0,12):
         if(j<6 and k==j):
             print(" * ", end="")
         else: 
-            print(" + ",end="")
+            print(" _ ",end="")
     print("")
+    if(i%k==1):
+        k-=1
