@@ -1,5 +1,5 @@
 # star-pyramid
- c++ program to draw star pyramid 
+  program to draw star pyramid 
  
 
                    *
