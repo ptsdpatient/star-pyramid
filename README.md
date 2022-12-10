@@ -1,6 +1,6 @@
 # star-pyramid
-  program to draw star pyramid 
-  rn working on star.js
+  a program to draw star pyramid 
+  
 
                    *
                    *
